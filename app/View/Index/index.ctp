@@ -1,4 +1,5 @@
-<?php //debug($slides); ?>
+<?php 
+//debug($slides); ?>
 <script language="javascript">
 	$(document).ready(function(){
 	    /*
