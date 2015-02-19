@@ -1,4 +1,4 @@
-<?php
+<?php echo ‘clone gitblabla’;
 /**
  * PHP 5
  *
